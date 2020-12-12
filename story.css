@@ -1,0 +1,109 @@
+body{
+	background-color: orange;
+
+}
+.bg{
+	width: 85%;
+	position: relative;
+	margin-left: 75px;
+	margin-top: 25px;
+	background-color: white;
+	border-radius: 25px;
+	text-align: center;
+    
+}
+.book{
+	height: 250px;
+	width: 250px;
+	
+	margin-top: 20px;
+    position: relative;
+}
+.main{
+	text-align: center;
+	margin-top: -50px;
+	padding-bottom: 20px;
+	position: relative;
+}
+.sec{
+	width:85%;
+	
+	margin-left: 75px;
+	margin-top: 25px;
+	background-color: #ffecb3;
+	border-radius: 25px;
+	text-align: center;
+	padding-top: 15px;
+	margin-bottom: 75px;
+}
+.bod{
+	text-align: center;
+	display:inline-flex; 
+}
+
+.inp{
+	border-radius: 10px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.bod input{
+	height: 28px;
+	width: 250px;
+}
+.com{
+	font-size: 40px;
+    
+}
+
+.sto{
+	font-size: 20px;
+	width: 400px;
+	height: 200px;
+	border-radius: 10px;
+	border:2px solid blue;
+}
+.sec1{
+	background-color: #ffecb3;
+	margin-left: 75px;
+	margin-top: 25px;
+	width:85%;
+	border-radius: 25px;
+	text-align: center;
+	margin-bottom: 75px;
+	
+	
+}
+#null{
+	font-size: 50px;
+	padding-top: 25px;
+}
+.par{
+	font-size: 25px;
+}
+.sec2{
+	padding: 20px 30px;
+
+}
+.rad{
+	width: 30px; 
+	height: 30px; 
+	margin-top: 20px;
+}
+.btn{
+	margin-bottom: 50px;
+	width: 200px;
+	height: 30px;
+}
+.cars{
+	width: 250px;
+	height: 28px;
+	border-radius: 10px;
+	margin-top: 18px;
+	font-size: 20px;
+}
+#check{
+	display: inline-flex;
+}
+#msg1{
+	font-size: 22px;
+}
